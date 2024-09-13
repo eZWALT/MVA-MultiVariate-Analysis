@@ -1,0 +1,153 @@
+satisfaction;Gender;Customer Type;Age;Type of Travel;Class;Flight Distance;Seat comfort;Departure/Arrival time convenient;Food and drink;Gate location;Inflight wifi service;Inflight entertainment;Online support;Ease of Online booking;On-board service;Leg room service;Baggage handling;Checkin service;Cleanliness;Online boarding;Departure Delay in Minutes;Arrival Delay in Minutes
+dissatisfied;Male;Loyal Customer;57;Personal Travel;Business;423;2;3;2;3;4;3;3;1;1;2;4;4;1;1;0;0
+dissatisfied;Female;Loyal Customer;35;Personal Travel;Eco;2305;4;4;4;3;2;4;4;2;5;4;4;4;5;2;61;65
+satisfied;Female;Loyal Customer;17;Business travel;Business;2773;4;4;3;4;4;4;4;4;3;1;2;2;1;4;5;2
+satisfied;Female;Loyal Customer;46;Business travel;Business;2300;1;1;4;1;4;4;4;4;2;4;4;4;5;4;142;134
+dissatisfied;Male;disloyal Customer;16;Business travel;Eco;1895;2;4;2;4;3;2;2;3;4;5;4;3;3;3;16;11
+satisfied;Female;Loyal Customer;49;Business travel;Business;2068;2;2;5;2;5;5;5;3;3;3;3;5;3;3;0;0
+satisfied;Female;Loyal Customer;51;Business travel;Business;2483;3;3;3;3;5;3;5;4;4;4;4;3;4;3;0;0
+dissatisfied;Male;Loyal Customer;27;Business travel;Business;2682;4;2;2;2;4;3;4;4;2;4;2;2;3;4;0;0
+dissatisfied;Male;disloyal Customer;25;Business travel;Eco;1856;2;2;2;3;2;2;2;2;5;4;1;2;3;2;4;3
+satisfied;Female;Loyal Customer;28;Personal Travel;Eco;2259;4;3;3;3;1;3;1;4;4;4;4;2;4;2;23;3
+satisfied;Female;disloyal Customer;28;Business travel;Business;2779;5;4;4;2;2;4;2;2;3;4;3;5;4;2;0;0
+satisfied;Male;Loyal Customer;50;Business travel;Business;521;5;5;5;5;4;4;4;4;4;4;4;5;4;5;1;0
+dissatisfied;Male;disloyal Customer;52;Business travel;Business;1626;3;3;3;2;3;3;3;3;4;2;4;3;4;3;0;0
+satisfied;Female;Loyal Customer;39;Business travel;Business;2983;3;1;3;3;5;5;5;4;4;4;4;4;4;3;0;19
+dissatisfied;Female;disloyal Customer;23;Business travel;Eco Plus;2528;2;1;3;3;3;5;5;3;2;4;4;5;1;5;133;127
+dissatisfied;Male;Loyal Customer;40;Business travel;Eco;1756;3;3;3;3;3;2;3;3;1;4;3;4;3;3;2;0
+satisfied;Female;Loyal Customer;40;Business travel;Business;2816;2;2;2;2;5;4;4;4;4;4;4;3;4;4;0;8
+satisfied;Male;Loyal Customer;59;Business travel;Business;1599;1;1;4;1;5;4;4;4;4;4;4;5;4;3;0;0
+satisfied;Male;Loyal Customer;46;Personal Travel;Eco;2242;4;3;4;3;1;4;1;1;3;5;4;4;3;1;0;0
+dissatisfied;Female;Loyal Customer;21;Personal Travel;Eco;1537;4;3;4;4;1;4;1;1;1;3;5;2;2;1;0;0
+dissatisfied;Male;Loyal Customer;16;Personal Travel;Eco Plus;1641;1;5;1;3;5;1;5;5;1;2;4;3;5;5;1;3
+dissatisfied;Male;Loyal Customer;55;Personal Travel;Eco;1942;3;3;0;3;4;0;4;4;4;1;4;3;3;4;75;73
+satisfied;Male;Loyal Customer;70;Personal Travel;Business;231;4;5;0;1;5;4;5;2;2;0;2;4;2;4;9;0
+dissatisfied;Female;Loyal Customer;40;Business travel;Business;1334;3;5;2;2;4;4;4;3;3;3;3;3;3;3;0;1
+satisfied;Male;disloyal Customer;13;Business travel;Business;2433;4;5;4;4;4;4;4;4;5;2;5;4;4;4;0;5
+dissatisfied;Male;disloyal Customer;28;Business travel;Eco;1923;2;2;2;4;3;2;3;3;2;2;2;2;1;3;0;0
+satisfied;Male;Loyal Customer;8;Business travel;Eco Plus;1264;0;4;0;3;4;4;4;4;3;2;2;2;2;4;0;0
+satisfied;Female;Loyal Customer;34;Business travel;Business;3403;3;3;3;3;3;5;4;4;4;5;4;5;4;4;0;0
+satisfied;Female;Loyal Customer;47;Personal Travel;Business;842;4;4;4;4;2;4;4;2;2;2;2;5;2;4;0;0
+satisfied;Male;disloyal Customer;15;Business travel;Business;2426;0;0;0;5;5;0;4;5;4;5;5;4;4;5;0;2
+dissatisfied;Female;Loyal Customer;50;Business travel;Eco Plus;2301;1;5;5;5;1;1;1;1;4;2;3;1;4;1;5;69
+satisfied;Female;Loyal Customer;45;Business travel;Business;235;4;4;4;4;2;3;5;5;5;5;5;1;5;5;0;0
+satisfied;Female;Loyal Customer;53;Business travel;Business;2159;1;1;1;1;2;4;4;5;5;5;5;5;5;4;22;20
+dissatisfied;Female;disloyal Customer;41;Business travel;Business;2943;3;3;3;1;2;3;2;2;4;2;5;5;4;2;0;0
+dissatisfied;Male;disloyal Customer;25;Business travel;Eco;2061;2;0;2;3;3;2;3;3;2;1;1;1;5;3;10;2
+satisfied;Female;Loyal Customer;34;Business travel;Business;796;5;5;3;5;3;1;2;5;5;5;5;4;5;2;9;0
+satisfied;Female;Loyal Customer;37;Personal Travel;Business;1457;5;2;2;2;5;5;5;5;2;2;4;3;4;5;36;44
+satisfied;Female;disloyal Customer;26;Business travel;Eco;1429;0;1;0;4;5;0;4;5;2;4;1;1;1;5;0;0
+satisfied;Male;Loyal Customer;49;Business travel;Business;629;2;2;3;2;5;5;4;5;5;5;5;4;5;4;0;1
+satisfied;Male;Loyal Customer;43;Business travel;Business;2084;1;1;4;1;3;5;5;5;5;5;5;4;5;5;13;0
+satisfied;Female;disloyal Customer;22;Business travel;Eco;1513;4;0;4;2;4;4;2;4;3;3;2;2;2;4;0;4
+satisfied;Male;Loyal Customer;52;Business travel;Business;475;3;3;3;3;4;4;4;5;5;5;5;3;5;3;1;0
+satisfied;Female;Loyal Customer;36;Business travel;Business;3747;4;1;4;4;2;1;2;4;4;4;4;3;4;4;7;11
+satisfied;Female;Loyal Customer;44;Business travel;Business;4443;1;1;1;1;3;3;3;4;4;5;5;3;4;3;203;200
+satisfied;Male;Loyal Customer;36;Business travel;Business;3134;5;5;5;5;5;4;4;5;5;5;5;5;5;4;0;0
+dissatisfied;Male;Loyal Customer;14;Personal Travel;Eco;1725;2;5;2;3;5;2;5;5;3;4;4;5;5;5;6;0
+satisfied;Male;Loyal Customer;47;Business travel;Business;2102;3;3;3;3;3;4;5;4;4;4;4;3;4;5;0;0
+satisfied;Male;Loyal Customer;27;Business travel;Business;1540;4;4;4;4;4;5;4;4;4;4;5;5;5;4;0;3
+dissatisfied;Female;disloyal Customer;26;Business travel;Eco;2011;3;3;3;3;5;3;4;5;4;1;3;1;3;5;0;0
+satisfied;Female;disloyal Customer;26;Business travel;Business;1479;4;4;4;3;3;4;3;3;3;3;5;5;5;3;0;3
+satisfied;Male;Loyal Customer;25;Business travel;Business;3660;1;1;1;1;4;5;4;4;5;3;4;3;4;4;0;0
+satisfied;Female;Loyal Customer;24;Personal Travel;Eco;2024;0;5;0;4;4;5;4;2;2;2;2;4;2;5;45;53
+dissatisfied;Male;Loyal Customer;14;Personal Travel;Business;2842;3;4;3;1;3;2;2;2;5;1;1;2;2;2;142;141
+satisfied;Female;Loyal Customer;42;Business travel;Eco;77;5;3;3;3;3;2;3;5;5;5;5;3;5;5;0;0
+dissatisfied;Male;Loyal Customer;60;Business travel;Eco;1963;2;2;2;2;2;2;2;2;3;5;4;4;4;2;36;37
+dissatisfied;Female;Loyal Customer;62;Personal Travel;Eco;335;4;5;3;2;3;5;5;2;2;3;2;5;2;5;15;24
+satisfied;Male;Loyal Customer;24;Business travel;Business;3428;4;4;4;4;5;5;5;5;5;4;4;4;5;5;0;0
+satisfied;Female;Loyal Customer;50;Business travel;Business;3876;2;2;2;2;2;2;4;5;5;5;5;3;5;1;4;0
+satisfied;Female;Loyal Customer;17;Personal Travel;Eco;1798;2;2;2;2;3;5;5;5;5;5;5;4;5;3;1;0
+satisfied;Female;Loyal Customer;68;Personal Travel;Eco;408;1;1;1;1;5;5;5;5;4;4;4;5;5;5;12;0
+dissatisfied;Male;Loyal Customer;9;Personal Travel;Eco;1927;1;3;1;3;3;1;3;3;2;1;3;3;2;3;0;0
+dissatisfied;Male;disloyal Customer;18;Business travel;Eco;1953;3;3;3;1;2;3;2;2;3;3;5;3;5;2;0;0
+dissatisfied;Female;Loyal Customer;49;Business travel;Business;1798;4;1;2;2;1;4;4;4;4;3;4;4;4;3;51;61
+satisfied;Male;Loyal Customer;47;Business travel;Business;2048;4;4;5;4;5;5;4;4;4;4;4;4;4;5;37;37
+satisfied;Male;Loyal Customer;43;Business travel;Business;3756;5;5;5;5;5;5;4;5;5;5;5;3;5;4;0;0
+satisfied;Female;Loyal Customer;27;Business travel;Business;3757;2;5;2;2;4;4;4;4;4;4;5;5;5;4;0;0
+satisfied;Male;Loyal Customer;21;Business travel;Business;3527;5;5;5;5;3;3;3;5;3;4;3;3;5;3;54;49
+satisfied;Female;Loyal Customer;38;Personal Travel;Eco;2758;2;2;2;2;4;3;4;5;5;5;4;4;5;5;23;14
+dissatisfied;Male;Loyal Customer;20;Business travel;Business;2146;4;5;5;5;4;4;4;4;4;3;4;4;3;4;75;65
+satisfied;Male;Loyal Customer;42;Business travel;Eco;2351;4;5;5;5;4;4;4;4;5;3;4;5;5;4;0;0
+satisfied;Male;Loyal Customer;24;Personal Travel;Eco Plus;2919;5;4;5;1;4;4;4;4;5;2;4;4;4;4;0;0
+satisfied;Male;Loyal Customer;22;Business travel;Business;4066;3;3;3;3;4;4;4;4;3;3;4;4;4;4;19;7
+dissatisfied;Male;Loyal Customer;12;Personal Travel;Eco;1416;2;4;2;2;1;2;1;1;3;4;4;5;5;1;17;60
+satisfied;Female;Loyal Customer;60;Business travel;Eco;2699;5;2;5;5;3;3;2;3;3;5;3;2;3;1;0;0
+satisfied;Male;Loyal Customer;40;Business travel;Eco;2524;5;5;5;5;5;5;5;5;5;5;1;2;2;5;11;22
+satisfied;Male;Loyal Customer;50;Business travel;Business;3477;1;1;1;1;3;4;4;5;5;5;5;5;5;3;31;24
+dissatisfied;Male;Loyal Customer;55;Business travel;Eco;2015;1;5;5;5;1;1;1;1;2;4;3;2;3;1;0;0
+satisfied;Male;Loyal Customer;43;Business travel;Business;1961;4;5;4;4;3;5;5;5;5;5;5;4;5;3;0;8
+dissatisfied;Male;Loyal Customer;26;Personal Travel;Eco Plus;2279;4;4;4;3;2;4;1;2;5;3;5;3;5;2;0;14
+satisfied;Female;Loyal Customer;47;Business travel;Business;1149;4;4;4;4;5;4;4;4;4;5;4;3;4;3;8;1
+satisfied;Female;Loyal Customer;69;Personal Travel;Eco;92;2;2;2;2;2;5;5;5;5;4;5;3;5;5;0;0
+satisfied;Female;Loyal Customer;26;Personal Travel;Eco;2035;2;2;2;2;3;5;4;5;5;5;5;3;5;3;106;85
+satisfied;Male;disloyal Customer;21;Business travel;Eco;1708;4;0;4;5;2;4;2;2;2;4;4;2;3;2;0;0
+dissatisfied;Female;disloyal Customer;36;Business travel;Business;1423;3;3;3;4;5;3;5;5;5;4;4;4;4;5;0;0
+dissatisfied;Male;disloyal Customer;39;Business travel;Business;2361;4;4;4;4;4;4;4;4;4;4;5;3;5;4;0;0
+dissatisfied;Male;Loyal Customer;60;Business travel;Business;2004;1;4;4;4;4;3;3;1;1;1;1;1;1;2;20;10
+satisfied;Female;Loyal Customer;37;Business travel;Eco;1419;4;4;4;4;4;4;4;4;5;2;5;2;2;4;0;22
+satisfied;Female;Loyal Customer;29;Business travel;Eco Plus;3454;5;2;3;2;5;5;5;5;5;4;3;2;2;5;0;0
+satisfied;Female;Loyal Customer;38;Business travel;Business;1101;1;1;1;1;3;5;4;4;4;4;4;4;4;5;8;0
+satisfied;Male;Loyal Customer;24;Business travel;Business;1602;5;5;5;5;5;5;5;5;3;4;4;4;5;5;0;0
+dissatisfied;Male;disloyal Customer;14;Business travel;Eco;2625;3;2;2;3;2;4;4;1;2;3;4;4;1;4;195;184
+satisfied;Female;disloyal Customer;23;Business travel;Business;2092;0;0;0;2;3;0;3;3;3;5;5;4;5;3;0;0
+dissatisfied;Male;Loyal Customer;44;Business travel;Business;1214;2;2;2;2;1;3;4;2;2;2;2;4;2;1;0;0
+satisfied;Male;Loyal Customer;43;Business travel;Business;238;1;1;3;1;5;5;3;4;4;4;4;4;4;5;1;5
+satisfied;Male;disloyal Customer;24;Business travel;Business;1340;4;5;4;3;1;4;1;1;5;5;4;3;4;1;0;0
+dissatisfied;Female;disloyal Customer;20;Business travel;Eco;1821;3;1;3;4;5;3;5;5;3;1;4;1;3;5;25;17
+dissatisfied;Male;Loyal Customer;51;Business travel;Business;1257;3;3;3;3;4;4;3;3;3;3;3;2;3;1;13;0
+dissatisfied;Male;Loyal Customer;47;Business travel;Eco;1836;2;4;4;4;2;2;2;2;2;1;4;2;3;2;2;0
+satisfied;Male;Loyal Customer;22;Business travel;Business;3797;5;1;5;5;4;4;4;4;5;3;4;4;5;4;28;34
+dissatisfied;Male;Loyal Customer;43;Personal Travel;Eco;1812;4;5;4;2;3;4;3;3;4;4;4;4;5;3;0;
+satisfied;Female;Loyal Customer;44;Business travel;Business;1122;3;3;3;3;5;5;4;4;4;4;4;4;4;3;0;0
+dissatisfied;Female;Loyal Customer;51;Business travel;Eco;2592;1;2;2;2;1;1;1;1;5;4;4;1;3;1;0;7
+satisfied;Female;disloyal Customer;22;Business travel;Eco;1642;4;3;4;3;5;4;5;5;4;3;5;5;2;5;0;0
+dissatisfied;Male;Loyal Customer;17;Business travel;Eco Plus;2149;3;1;1;1;3;3;4;3;1;3;4;3;4;3;47;33
+dissatisfied;Male;Loyal Customer;69;Personal Travel;Eco;1989;1;3;1;3;5;1;3;5;4;4;2;2;2;5;15;0
+dissatisfied;Male;Loyal Customer;43;Business travel;Eco;1966;3;5;5;5;3;3;3;3;3;5;3;1;4;3;0;0
+satisfied;Female;Loyal Customer;44;Personal Travel;Eco;665;5;2;5;1;2;2;1;3;3;5;3;3;3;3;0;0
+dissatisfied;Male;Loyal Customer;15;Personal Travel;Eco Plus;2343;1;4;0;3;3;0;3;3;4;3;3;4;4;3;42;35
+dissatisfied;Male;Loyal Customer;43;Personal Travel;Eco;2416;2;5;2;5;3;2;5;3;4;3;5;5;4;3;1;0
+satisfied;Female;Loyal Customer;43;Business travel;Eco;878;4;3;3;3;3;5;3;4;4;4;4;3;4;3;0;0
+satisfied;Female;Loyal Customer;31;Business travel;Business;4861;2;2;2;2;5;4;5;5;4;5;5;5;4;5;53;51
+satisfied;Female;Loyal Customer;48;Business travel;Business;1067;1;1;1;1;2;5;5;5;5;4;5;4;5;5;20;15
+satisfied;Female;Loyal Customer;66;Personal Travel;Eco;340;3;3;5;3;5;5;5;5;1;5;5;1;4;5;0;23
+dissatisfied;Female;Loyal Customer;24;Personal Travel;Eco;2408;3;5;4;2;4;4;4;4;3;4;4;4;4;4;0;0
+dissatisfied;Male;Loyal Customer;10;Personal Travel;Eco;2350;1;5;1;2;2;1;2;2;3;5;5;4;4;2;0;0
+satisfied;Female;Loyal Customer;59;Personal Travel;Eco;570;2;2;2;2;4;4;4;3;2;4;5;4;3;4;2;19
+satisfied;Male;Loyal Customer;23;Business travel;Business;1792;4;4;4;4;5;5;5;5;2;4;5;3;3;5;0;0
+dissatisfied;Male;Loyal Customer;41;Business travel;Eco;2027;1;4;4;4;1;1;1;1;2;2;3;3;2;1;15;11
+satisfied;Male;disloyal Customer;20;Business travel;Business;2653;5;0;5;3;1;5;1;1;4;2;5;4;5;1;0;0
+satisfied;Female;Loyal Customer;15;Personal Travel;Eco Plus;2462;4;4;4;4;4;4;3;4;4;4;4;3;4;1;23;16
+satisfied;Female;Loyal Customer;47;Business travel;Business;2493;2;2;3;2;4;4;4;4;3;5;2;4;4;4;2;18
+satisfied;Male;Loyal Customer;29;Business travel;Business;5178;5;5;5;5;5;4;5;5;3;3;5;3;4;5;0;
+dissatisfied;Female;Loyal Customer;47;Business travel;Business;1324;1;4;3;4;1;4;4;1;1;2;1;2;1;4;0;0
+satisfied;Female;Loyal Customer;56;Personal Travel;Eco;409;2;2;4;2;2;5;4;3;3;4;3;4;3;3;0;0
+dissatisfied;Male;Loyal Customer;55;Business travel;Business;1708;2;5;5;5;3;3;4;2;2;2;2;2;2;3;58;31
+satisfied;Female;Loyal Customer;66;Personal Travel;Eco;1078;3;5;5;5;2;1;5;3;3;3;3;3;3;3;0;13
+satisfied;Female;Loyal Customer;7;Personal Travel;Eco;2208;1;1;5;1;5;4;4;5;5;5;5;5;5;3;1;0
+dissatisfied;Female;disloyal Customer;26;Business travel;Eco;2744;3;3;3;3;2;3;4;2;2;2;4;2;3;2;0;23
+dissatisfied;Male;Loyal Customer;7;Personal Travel;Eco Plus;2639;3;5;3;4;5;3;5;5;3;4;4;5;4;5;11;0
+dissatisfied;Female;disloyal Customer;35;Business travel;Eco Plus;2247;2;2;2;3;1;2;1;1;2;1;4;1;4;1;33;17
+satisfied;Female;Loyal Customer;55;Business travel;Business;399;1;1;1;1;3;5;5;4;4;4;4;3;4;4;0;0
+satisfied;Female;Loyal Customer;59;Personal Travel;Eco;448;5;4;5;5;2;4;5;4;4;4;4;3;4;5;1;0
+satisfied;Male;Loyal Customer;55;Business travel;Business;2931;2;2;2;2;5;5;5;4;4;4;4;4;4;4;0;12
+satisfied;Female;Loyal Customer;29;Personal Travel;Eco;2306;3;3;3;3;4;5;4;5;5;5;5;4;5;4;0;0
+dissatisfied;Female;disloyal Customer;41;Business travel;Eco;2370;3;3;3;1;4;3;4;4;2;2;2;2;2;4;22;36
+satisfied;Female;Loyal Customer;17;Personal Travel;Eco;1651;2;2;5;2;3;4;4;2;2;2;2;5;2;5;0;0
+dissatisfied;Male;Loyal Customer;41;Business travel;Business;450;1;2;2;2;4;4;4;1;1;1;1;1;1;2;9;2
+dissatisfied;Male;disloyal Customer;22;Business travel;Eco;2640;2;2;2;5;4;2;4;4;5;2;5;5;5;4;117;113
+satisfied;Female;Loyal Customer;41;Business travel;Business;1765;5;5;3;5;3;4;4;3;3;4;3;5;3;5;17;0
+satisfied;Male;Loyal Customer;38;Business travel;Business;1562;5;5;3;5;4;4;5;5;5;5;5;3;5;4;9;0
+dissatisfied;Female;Loyal Customer;46;Business travel;Business;3077;1;1;1;1;1;4;4;1;1;2;1;3;1;4;26;60
+satisfied;Female;Loyal Customer;13;Personal Travel;Eco;1670;1;1;1;1;2;4;5;5;5;4;5;4;5;3;1;10
+satisfied;Female;disloyal Customer;24;Business travel;Business;1619;5;5;5;1;4;5;4;4;5;3;5;4;4;4;10;0
+satisfied;Female;disloyal Customer;21;Business travel;Eco;1766;4;0;4;1;1;4;1;1;5;2;4;5;4;1;10;24
+satisfied;Male;Loyal Customer;48;Business travel;Business;3258;1;1;1;1;1;2;1;4;4;4;4;4;4;3;51;23
+dissatisfied;Male;Loyal Customer;28;Personal Travel;Eco;1985;2;4;2;3;1;2;1;1;5;3;5;3;4;1;37;38
+satisfied;Male;Loyal Customer;30;Business travel;Business;2076;1;1;1;1;5;5;5;5;1;1;2;1;4;5;0;0
+dissatisfied;Male;Loyal Customer;43;Personal Travel;Eco;1596;1;2;0;3;2;0;2;2;1;5;3;1;4;2;0;0
+dissatisfied;Male;Loyal Customer;7;Personal Travel;Eco;2331;1;4;1;4;2;1;2;2;5;4;4;5;5;2;0;1
+satisfied;Female;Loyal Customer;42;Business travel;Business;3165;4;4;5;4;3;5;5;5;5;4;5;3;5;4;0;0
+satisfied;Female;Loyal Customer;44;Business travel;Business;3470;1;1;1;1;4;4;4;5;3;5;4;4;3;4;121;135
+satisfied;Female;Loyal Customer;26;Business travel;Eco Plus;999;4;4;4;4;5;5;4;5;1;2;4;3;1;5;0;0
