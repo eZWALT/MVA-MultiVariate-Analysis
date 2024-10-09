@@ -1,0 +1,155 @@
+---
+title: "Homework 1: Principal Component Analysis (PCA) and Multidimensional Scaling (MDS)"
+author: "Group 13 : Anna Monsó Rodríguez, Walter José Troiani Vargas, Joan Acero Pousa"
+date: "2024-10-07"
+output: html_document
+---
+
+0. Import the data set “euroleague_23_24.csv”: the player statistics of four teams taken part in Final Four of Euro League 2023-2024.
+```{r}
+
+euroleague_23_24 <- read.csv2("euroleague_23_24.csv")
+
+```
+
+1. Exploratory data analysis
+
+
+
+```{r}
+# a) Discard the variable “No” from the data set.
+
+df <- euroleague_23_24[,-1]
+
+```
+ 
+
+```{r}
+# b) Split variable “Min” using strsplit() function. Give the name “aux” to the output. The first element of each row will show the minutes that the player played in total. (1p)
+
+# WRITE CODE HERE
+
+
+```
+
+
+```{r}
+# c) Add a numerical variable to the data set named “Min 2” which shows on average how many minutes each player played in the game.
+
+
+# WRITE CODE HERE
+
+
+```
+
+
+
+```{r}
+# d) Check the structure of the data and assign correct type to each variable considering whether it is a categorical or numerical variable.
+
+
+# WRITE CODE HERE
+
+
+```
+
+
+2. Application of PCA
+
+```{r}
+# a) Apply PCA on all the scaled numerical variables in the data set by using PCA() function in FactoMineR package. Treat the categorical variables and the variable “PIR” as suplemantary variables using arguments quali.sup and quanti.sup correctly. (3p)
+
+
+```
+
+```{r}
+
+# b) How many components should be extracted? Decide on the number of components considering eigenvalues. (3p)
+
+```
+
+
+```{r}
+
+# c) Interpret the loadings/correlations of variables at each dimension (3p).
+
+```
+
+
+```{r}
+# d) Use plot.PCA() function to show correlations between variables and the extracted dimensions. (For the variables you should use the argument choix = “var”). Plot all the extracted dimensions changing argument “axes”.(3p)
+
+```
+
+```{r}
+# e) Interpret variable plots. How can each dimension be named? (5p)
+
+```
+
+
+```{r}
+# f) Show individual pilots for the extracted dimensions changing argumennt choix=“ind” in plot.PCA() function. (2p)
+
+```
+
+```{r}
+# g) Interpret the individual plots. (3p)
+
+```
+
+3. Application of MDS
+
+```{r}
+
+# a) Apply metric MDS using Euclidean distance on scaled numerical variables. (2p)
+
+```
+
+```{r}
+
+# b) Plot the data using the points on the first two coordinates using players names as label. (2p)
+
+```
+
+```{r}
+
+# c) Interpret the plot.(3p)
+
+```
+
+
+```{r}
+
+# d) Calculate gower distance including variable “POSITION” to the data matrix. (3p)
+
+
+```
+
+
+```{r}
+
+# e) Apply metric MDS on gower distance matrix. (2p)
+
+```
+
+
+```{r}
+
+# f) Plot individual plots on the first two coordinates (2p).
+
+```
+
+
+```{r}
+
+# g) Use different categorical and numerical variables as labels so as to explain clusters that are constructed. (5p)
+```
+
+```{r}
+
+# h) Which MDS do you think better group the individuals? Why? (3p)
+
+
+```
+
+
