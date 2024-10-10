@@ -7,14 +7,11 @@ output: html_document
 
 0. Import the data set “euroleague_23_24.csv”: the player statistics of four teams taken part in Final Four of Euro League 2023-2024.
 ```{r}
-
 euroleague_23_24 <- read.csv2("euroleague_23_24.csv")
 
 ```
 
 1. Exploratory data analysis
-
-
 
 ```{r}
 # a) Discard the variable “No” from the data set.
@@ -26,19 +23,24 @@ df <- euroleague_23_24[,-1]
 
 ```{r}
 # b) Split variable “Min” using strsplit() function. Give the name “aux” to the output. The first element of each row will show the minutes that the player played in total. (1p)
+min_column = df[,7]
+min_column_splited = strsplit(min_column,split=':',fixed=TRUE)
+aux <- sapply(min_column_splited, function(x) {
+  as.numeric(x[1]) * 60 + as.numeric(x[2]) + as.numeric(x[3]) / 60
+})
 
-# WRITE CODE HERE
+df<- data.frame(Aux = aux, df[,])
 
+# No acabo de entendre si un cop afegit la columna aux s'ha de borra la columna antiga de MIN
 
 ```
 
 
 ```{r}
 # c) Add a numerical variable to the data set named “Min 2” which shows on average how many minutes each player played in the game.
-
-
-# WRITE CODE HERE
-
+games_played <- df[,5]
+min2 <- aux/games_played
+df <- data.frame(df[,1], Min2 = min2, df[,-1])
 
 ```
 
@@ -47,10 +49,13 @@ df <- euroleague_23_24[,-1]
 ```{r}
 # d) Check the structure of the data and assign correct type to each variable considering whether it is a categorical or numerical variable.
 
+str(df)
 
-# WRITE CODE HERE
+df$TEAM <- as.factor(df$TEAM)
+df$PLAYER<- as.factor(df$PLAYER)
+df$POSITION <- as.factor(df$POSITION)
 
-
+str(df)
 ```
 
 
@@ -58,6 +63,8 @@ df <- euroleague_23_24[,-1]
 
 ```{r}
 # a) Apply PCA on all the scaled numerical variables in the data set by using PCA() function in FactoMineR package. Treat the categorical variables and the variable “PIR” as suplemantary variables using arguments quali.sup and quanti.sup correctly. (3p)
+library(FactoMineR)
+
 
 
 ```
